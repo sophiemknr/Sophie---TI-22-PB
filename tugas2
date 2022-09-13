@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+  cout << "Belajar Koding di Kelas Algoritma\n";
+  cout << "Belajar Koding di Kelas Algoritma\n";
+  cout << "Belajar Koding di Kelas Algoritma\n";
+  cout << "Belajar Koding di Kelas Algoritma\n";
+  cout << "Belajar Koding di Kelas Algoritma\n";
+}
